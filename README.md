@@ -1,4 +1,5 @@
-## Hi there 👋
+# About:
+SAS and SQL programmer. And some Python. I create analytical datasets of all shapes, kinds and sizes.
 
 <!--
 **cbrentroberts/cbrentroberts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
